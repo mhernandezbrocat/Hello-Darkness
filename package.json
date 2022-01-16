@@ -1,0 +1,22 @@
+{
+    "name": "hello-darkness",
+    "displayName": "Hello Darkness",
+    "publisher": "MiguelLuisHernandezBrocat",
+    "description": "Hello Darkness",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hello Darkness",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hello Darkness-color-theme.json"
+            }
+        ]
+    }
+}
